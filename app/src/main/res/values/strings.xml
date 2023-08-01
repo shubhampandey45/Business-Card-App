@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App Practice</string>
+    <string name="name">Shubham Pandey</string>
+    <string name="title">Android Developer</string>
+    <string name="contact">+91 6395244528</string>
+    <string name="linkedin">ShubhamPandey45</string>
+    <string name="email">shubhampandey.work45@gmail.com</string>
+</resources>
