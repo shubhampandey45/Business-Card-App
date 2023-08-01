@@ -21,8 +21,7 @@ The following **required** functionality is completed:
 * Learned to use Text and Image composable.
 
 ## Screen View
-
-
+![Screenshot (162)](https://github.com/shubhampandey45/Business-Card-App/assets/105074712/51ec99df-5e96-4469-a250-2243225e2bc0)
 
 ## License
 
